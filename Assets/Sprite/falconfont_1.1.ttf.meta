@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d7b0e384f3ddbf8418c0f28bf58313b4
+timeCreated: 1515504823
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FalconFont
+  fontNames:
+  - FalconFont
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
